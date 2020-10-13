@@ -11,7 +11,7 @@ Webstes that i've been working:
 
 My skills:
 - Python: Django, Django-Rest
-- JavaScript: Angular, React
+- JavaScript/TypeScript: Angular, React
 - Dart: Flutter
 - Postgres
 
