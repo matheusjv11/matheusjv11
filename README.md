@@ -1,6 +1,6 @@
 ### Hi there! 🤙
 
-My name is Matheus Almeida from Brazil (🇧🇷). I'm a Computer Science student at Federal University of Tocantins (UFT), and currently work as an intern at "Fábrica de Software" of Computer Science Curse. 
+My name is Matheus Almeida from Brazil (🇧🇷). I'm a Software Developer and currently working at Nelogica. 
 
 I'm technology lover (❤️) and addicted to programming (👨🏻‍💻).
 
