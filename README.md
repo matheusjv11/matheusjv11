@@ -1,6 +1,6 @@
 ### Hi there! 🤙
 
-My name is Matheus Almeida from Brazil (🇧🇷). I'm a Software Developer and currently working at Nelogica. 
+My name is Matheus Almeida from Brazil (🇧🇷). I'm a Software Developer and currently working at Cast Group. 
 
 I'm technology lover (❤️) and addicted to programming (👨🏻‍💻).
 
